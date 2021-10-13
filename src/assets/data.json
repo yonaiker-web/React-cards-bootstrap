@@ -1,0 +1,22 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "title": "Que es un Monedero Digital o Wallet",
+            "image": "https://cacaoft.com:70/wp-content/uploads/2021/04/Imagenes-de-la-Pagina-3.png",
+            "content":"De manera resumida podemos decir que un Wallet es un programa que almacena criptomonedas. Es un software que administra tus claves (públicas y privadas) y te permiten enviar y recibir criptomonedas por medio de Blockchain."
+        },
+        {
+            "id": 2,
+            "title": "Que es Ethereum",
+            "image": "https://cacaoft.com:70/wp-content/uploads/2021/04/Imagenes-de-la-Pagina-1-1.png",
+            "content":"Es una plataforma global de código abierto para aplicaciones descentralizadas. Esta plataforma permite escribir código que controla el valor digital y al que puede accederse desde cualquier parte del mundo."
+        },
+        {
+            "id": 3,
+            "title": "Que es la mineria",
+            "image": "https://cacaoft.com:70/wp-content/uploads/2021/04/seguridad-bitcoin-mineria.jpg",
+            "content":"La minería de Bitcoin y otras criptomonedas es un proceso en el que se validan y agrupan las transacciones de una red, para luego añadirlas a su blockchain. Este proceso brinda seguridad a la red al mismo tiempo que permite la generación de nuevas monedas."
+        }
+    ]
+}

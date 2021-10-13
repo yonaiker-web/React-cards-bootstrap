@@ -1,0 +1,11 @@
+.App {
+    background: rgb(238, 69, 64);
+    /*nos permite abarcar todo el largo*/
+    
+    
+    
+    background: linear-gradient(
+    90deg, 
+    rgba(2,0,36,1) 20%, 
+    rgba(121,88,9,1) 100%);
+}
